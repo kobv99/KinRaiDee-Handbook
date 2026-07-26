@@ -6,6 +6,7 @@ All meaningful changes to the KinRaiDee Handbook are recorded here.
 
 ### Added
 
+- draft RFC-0003 for transaction safety, inventory consistency, idempotency, and restart recovery;
 - complete architecture readiness audit for application commit `d8631869`;
 - current dependency graphs for application, Pantry, Recipe, recommendations, Cooking History, undo/cancel, and persistence;
 - data model and Shopping compatibility review;

@@ -44,6 +44,12 @@ Typical RFC candidates include:
 
 Use [`templates/RFC-Template.md`](../../templates/RFC-Template.md).
 
+## RFC index
+
+| ID | Title | Status | Reference |
+|---|---|---|---|
+| RFC-0003 | Transaction Safety & Inventory Consistency | Draft | [`RFC-0003-Transaction-Safety-and-Inventory-Consistency.md`](RFC-0003-Transaction-Safety-and-Inventory-Consistency.md) |
+
 ---
 
 Status: Active  
