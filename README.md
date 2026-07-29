@@ -11,13 +11,14 @@ This repository is the **single source of truth** for the intent behind the prod
 1. [Welcome and onboarding](docs/00_Welcome/README.md)
 2. [Company foundation](docs/01_Company/README.md)
 3. [Product overview](docs/02_Product/ProductOverview.md)
-4. [Architecture overview](docs/03_Architecture/Architecture.md)
-5. [Engineering standards](docs/04_Engineering/README.md)
-6. [AI strategy](docs/05_AI/AIVision.md)
-7. [Roadmap](docs/06_Roadmap/Roadmap.md)
-8. [Architecture decisions](docs/07_ADR/README.md)
-9. [RFC process](docs/08_RFC/README.md)
-10. [Current handover for Codex](docs/00_Welcome/CodexHandover.md)
+4. [Substitution recommendation UX](docs/02_Product/SubstitutionRecommendationUX.md)
+5. [Architecture overview](docs/03_Architecture/Architecture.md)
+6. [Engineering standards](docs/04_Engineering/README.md)
+7. [AI strategy](docs/05_AI/AIVision.md)
+8. [Roadmap](docs/06_Roadmap/Roadmap.md)
+9. [Architecture decisions](docs/07_ADR/README.md)
+10. [RFC process](docs/08_RFC/README.md)
+11. [Current handover for Codex](docs/00_Welcome/CodexHandover.md)
 
 ## Current product state
 
@@ -61,4 +62,4 @@ Application source code: [kobv99/KinRaiDee](https://github.com/kobv99/KinRaiDee)
 - Version: `0.1.0-foundation`
 - Status: Active development
 - Owner: CTO Office
-- Last updated: 2026-07-25
+- Last updated: 2026-07-29
